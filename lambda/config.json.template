@@ -1,0 +1,7 @@
+{
+  "token": "your-api-token",
+  "channel": "your-slack-channel",
+  "github_to_slack":{
+      "@github-name" : "@slack-name"
+  }
+}
